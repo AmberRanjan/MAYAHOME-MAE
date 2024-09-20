@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MAE_05_AddPersonalDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48774397-2577-4e25-8edb-22402ec9f49c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa59390c-ddb9-4c78-9b49-ab0a9a41897e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cancel,Done,Divorced,Married,Separated,Single,Widowed'</defaultValue>
+      <description></description>
+      <id>aa59390c-ddb9-4c78-9b49-ab0a9a41897e</id>
+      <masked>false</masked>
+      <name>productList</name>
+   </variable>
+</TestCaseEntity>
